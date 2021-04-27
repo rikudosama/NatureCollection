@@ -4,6 +4,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="darkGray">#202122</color>
     <color name="lightGray">#989CA0</color>
+    <color name="teal_200">#5DC96</color>
+    <color name="teal_700">#019E7C</color>
     <color name="green">#77D353</color>
     <color name="darkGreen">#5C9447</color>
 </resources>
